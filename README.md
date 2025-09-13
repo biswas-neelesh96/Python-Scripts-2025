@@ -1,7 +1,5 @@
 # Python-Scripts-2025
 
-# Python-Scripts-2023
-
 This repository will be used for **Python Scripts** during Hacktoberfest 2025
 
 ![Hacktoberfest 2022](https://github.com/biswas-neelesh96/Machine-Learning-Algorithms/blob/main/Screenshot%20(18).png)
