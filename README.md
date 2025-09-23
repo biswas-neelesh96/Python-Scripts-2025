@@ -29,4 +29,4 @@ This repository will be used for **Python Scripts** during Hacktoberfest 2025
  
  ![Pseudocode](https://github.com/biswas-neelesh96/Python-Scripts/blob/master/H20-Images/Screenshot-(903).png)
 
-For any other problem/query, please mail to [neelesh365@gmail.com](mailto:neelesh365@gmail.com) or [neelesh.ece30@gmail.com](mailto:neelesh.ece30@gmail.com) or you can connect and/or drop a message on my [LinkedIn](https://www.linkedin.com/in/neelesh-biswas-88a255142/) or [Instagram](https://www.instagram.com/sonai_sunshine96/) Profile.
+For any other problem/query, please mail to [neelesh365@gmail.com](mailto:neelesh365@gmail.com) or [neelesh.ece30@gmail.com](mailto:neelesh.ece30@gmail.com) or you can connect and/or drop a message on my [LinkedIn](https://www.linkedin.com/in/neelesh-biswas-88a255142/) or [Instagram](https://www.instagram.com/sonai_sunshine30/) Profile.
